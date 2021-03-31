@@ -36,9 +36,11 @@ The PyBer fares muti-line chart further supports our observation stated above. T
 ![Fares_Summary](analysis/Fares_Summary.png)
 figure 8: line chart shoing the total fares 
 
+![PyBer_summary_df](analysis/PyBer_summary_df.png)
+figure 9: pyber summary dataframe.
 
 ## Summary
-
-![Fig2](analysis/Fig2.png)
-![Fig3](analysis/Fig3.png)
-![Fig4](analysis/Fig4.png)
+* There are larger ride-sharing in the urban cities, more drivers should be assigned in the urban cities.
+* The average fare is much higher in the rural cities, this might encourage urban driver decided to drive in the rural cities. Also decrease the potential riders from using PyBer due to the higher cost in the rural area.
+* Since the number of drivers is higher in the urban cities, this might discourage potential riders from using PyBer due to lack of drivers in the rural cities.
+* Suburban cities have more potential drivers and riders because it is closer to the urban area. Assigning more drivers might increase the potential riders in suburban cities.
